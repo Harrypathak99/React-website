@@ -10,5 +10,5 @@
 2. uvicorn main:app
 
 **LASTLY RUN REACT SERVER**
-npm start
+1. npm start
    
