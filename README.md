@@ -9,7 +9,9 @@
 **FOR FAST API**
 1. cd fastapi
 2. uvicorn main:app
+3. http://localhost:8080/docs and use Swagger api to apply post and get methods.
 
 **LASTLY RUN REACT SERVER**
 1. npm start
+2. goto http://localhost:3000
    
