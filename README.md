@@ -8,4 +8,7 @@
 **FOR FAST API**
 1. cd fastapi
 2. uvicorn main:app
+
+**LASTLY RUN REACT SERVER**
+npm start
    
