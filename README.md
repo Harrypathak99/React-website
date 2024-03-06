@@ -1,5 +1,7 @@
 **React Restaurant App with Fast API. JWT Authentication Login System.**
+
 **Register a new Account or simply use admin as both username and password**
+
 **STEPS FOR INSTALLATION**
 1. open cmd
 2. git clone https://github.com/Harrypathak99/React-website.git
