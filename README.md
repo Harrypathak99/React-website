@@ -3,7 +3,8 @@
 2. cd React-website
 3. cd restaurant-app
 4. npm install
-5. npm install react-loading-skeleton
+5. npm install react-loading-skeleton.
+
 ##FOR FAST API
 1. cd fastapi
 2. uvicorn main:app
