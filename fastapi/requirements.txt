@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-jwt
+PyJWT
 sqlalchemy
 jinja2
 python-multipart
