@@ -22,6 +22,7 @@ origins = [
     "http://localhost.tiangolo.com",
     "https://localhost.tiangolo.com",
     "http://localhost",
+    "https://react-website-otdc.onrender.com",
     "http://localhost:3000",
 ]
 app.add_middleware(
