@@ -13,7 +13,7 @@ COPY . /app
 
 # Install any needed packages specified in requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
-
+RUN pip uninstall pyjwt
 
 # Expose port 80 to the outside world
 EXPOSE 8080
